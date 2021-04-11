@@ -1,0 +1,13 @@
+name: word-prediction
+title: word-prediction
+username:
+account: nilomartin
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3942779
+bundleId: 4458117
+url: https://nilomartin.shinyapps.io/word-prediction/
+when: 1618167389.72902
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: prediction-function.R
